@@ -19,5 +19,3 @@ ENTRYPOINT [ "java", \
              "-Duser.timezone=Europe/London", \
              "-jar", "/app.jar" \
 ]
-
-

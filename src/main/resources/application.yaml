@@ -1,1 +1,4 @@
-
+environment.name: ${environment.name}
+db:
+  user: ${db.user}
+  pass: ${db.password}
